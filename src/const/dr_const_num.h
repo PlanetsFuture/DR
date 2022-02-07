@@ -1,0 +1,22 @@
+
+#ifndef __DR_CONST_NUM__
+#define __DR_CONST_NUM__
+
+#define DR_CONST_NUM_FINE_STRUCTURE (7.297352533e-3)
+#define DR_CONST_NUM_YOTTA (1e24)
+#define DR_CONST_NUM_ZETTA (1e21)
+#define DR_CONST_NUM_EXA (1e18)
+#define DR_CONST_NUM_PETA (1e15)
+#define DR_CONST_NUM_TERA (1e12)
+#define DR_CONST_NUM_GIGA (1e9)
+#define DR_CONST_NUM_KILO (1e6)
+#define DR_CONST_NUM_MILLI (1e-3)
+#define DR_CONST_NUM_MICRO (1e-6)
+#define DR_CONST_NUM_NANO (1e-9)
+#define DR_CONST_NUM_PICO (1e-12)
+#define DR_CONST_NUM_FEMTO (1e-15)
+#define DR_CONST_NUM_ATTO (1e-18)
+#define DR_CONST_NUM_ZEPTO (1e-21)
+#define DR_CONST_NUM_YOCTO (1e-24)
+
+#endif
